@@ -1,7 +1,8 @@
 # Time Log App
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBepozD0DfuxWa5mS21jkqMOzrlAdwegiBnw&usqp=CAU'>
 
->A google colab notebook, that collects time logged in and logged out with a press of a button.  
+>A [google colab notebook](https://colab.research.google.com/drive/1Cy4FgA-8tdzJk9aR6U0xPSDAc-gGhCww#scrollTo=kVAAECU8qhF0), that collects time logged in and logged out with a press of a button.  
+
 
 **Why an App?**
 > For a few months, I was tracking my hours with an excel sheet, but it got tedious and a bit boring just entering data &#129335; I wanted something to automate this task and coding a project is fun! &#128077;
