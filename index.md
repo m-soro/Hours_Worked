@@ -1,7 +1,7 @@
 # Time Log App
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBepozD0DfuxWa5mS21jkqMOzrlAdwegiBnw&usqp=CAU'>
 
->A [google colab notebook](https://colab.research.google.com/drive/1Cy4FgA-8tdzJk9aR6U0xPSDAc-gGhCww#scrollTo=kVAAECU8qhF0), that collects time logged in and logged out with a press of a button.  
+>A [google colab notebook](https://colab.research.google.com/drive/1Cy4FgA-8tdzJk9aR6U0xPSDAc-gGhCww?usp=sharing), that collects time logged in and logged out with a press of a button.  
 
 
 **Why an App?**
