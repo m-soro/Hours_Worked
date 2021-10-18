@@ -4,12 +4,14 @@
 >A [google colab notebook](https://github.com/m-soro/Hours_Worked/blob/main/Hours_WorkedV2.ipynb), that collects time logged in and logged out with a press of a button.  
 
 
-𝐖𝐡𝐲?
+**Why this app?**
+
 For a few months, I was tracking my hours with an excel sheet, but it got tedious and a bit boring just entering data 🤷 I wanted something to automate this task and a coding project is fun! 👍
 
 Plus, It gives me practice in python  💻 and I have something to work on if I ever wanted to refactor and tinker with my code down the road.
 
-𝐇𝐨𝐰 𝐝𝐢𝐝 𝐈 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬?
+**How did I built this?**
+
 I started this project by reading and cleaning the data from my google sheets. Along the way I found some mistakes with my manual entries like wrong dates or day, this has to be fixed first. Then, I converted this data to a pandas DataFrame.
 
 The challenging part is to create this entire logging app, where will I store it 🗄 ? How can I build a DataFrame that behaves just like excel? Like entering log in and log out in separate cells? I'm sure there was already solutions with this problem posted somewhere, but I wanted to create and come up with the solution myself.
@@ -18,7 +20,8 @@ My solution is to create a separate csv files 🗒 timein.csv and timeout.csv fi
 
 Storage problem was solved using my google drive, I specified a path where I wanted my log to be saved and every entry is appended.
 
-𝐖𝐡𝐚𝐭 𝐚𝐛𝐨𝐮𝐭 𝐥𝐨𝐠𝐠𝐢𝐧𝐠 𝐦𝐢𝐬𝐭𝐚𝐤𝐞𝐬?
+**What About logging mistakes?**
+
 This is where the challenging part started, My first solution was undo the last log. I did this by reading the file, find the last line of the file and 📝 re-write everything except the last line.
 
 Another solution, is to replace the value in the DataFrame, using index. First, by finding 🔎 the log that needs editing, second, using the index to find which entry is to be edited then enter the edits manually. Then, re-write the original file.
