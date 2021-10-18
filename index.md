@@ -2,7 +2,7 @@
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBepozD0DfuxWa5mS21jkqMOzrlAdwegiBnw&usqp=CAU'>
 
 >A [google colab notebook](https://github.com/m-soro/Hours_Worked/blob/main/Hours_WorkedV2.ipynb), that collects time logged in and logged out with a press of a button.  
-A google colab notebook, that collects time logged in and logged out.
+
 
 𝐖𝐡𝐲?
 For a few months, I was tracking my hours with an excel sheet, but it got tedious and a bit boring just entering data 🤷 I wanted something to automate this task and a coding project is fun! 👍
