@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
 - jekyll-remote-theme
 google_analytics: G-CYWRNEN1B2
