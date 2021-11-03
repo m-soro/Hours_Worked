@@ -1,6 +1,6 @@
-# theme: jekyll-theme-minimal
-remote_theme: pmarsceill/just-the-docs
+theme: jekyll-theme-minimal
+# remote_theme: pmarsceill/just-the-docs
 plugins:
 - jekyll-remote-theme
 # google_analytics: G-CYWRNEN1B2
-ga_tracking: UA-172472287-2
+ga_tracking: G-CYWRNEN1B2
