@@ -1,5 +1,5 @@
 # remote_theme: barryclark/jekyll-now
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 
