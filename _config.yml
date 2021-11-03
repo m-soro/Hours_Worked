@@ -1,4 +1,5 @@
-remote_theme: barryclark/jekyll-now
+# remote_theme: barryclark/jekyll-now
+theme: jekyll-theme-cayman
 plugins:
 - jekyll-remote-theme
 google_analytics: G-CYWRNEN1B2
@@ -7,4 +8,3 @@ google_analytics:
 
 
 
-theme: jekyll-theme-cayman
