@@ -1,7 +1,7 @@
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # remote_theme: pmarsceill/just-the-docs
-remote_theme: orderedlist/minimal
+# remote_theme: orderedlist/minimal
 plugins:
 - jekyll-remote-theme
-# google_analytics: G-CYWRNEN1B2
+google_analytics: G-CYWRNEN1B2
 ga_tracking: G-CYWRNEN1B2
